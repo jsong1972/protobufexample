@@ -1,0 +1,4 @@
+[submodule "lib/protobuf"]
+	path = lib/protobuf
+	url = https://github.com/protocolbuffers/protobuf.git
+	branch = 3.16.x
